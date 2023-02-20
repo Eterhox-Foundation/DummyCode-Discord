@@ -1,0 +1,1 @@
+TOKEN = "Insert your Discord Token here"
